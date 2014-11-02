@@ -1,0 +1,27 @@
+\\data.adir.hull.ac.uk\home4\484\484327\visual studio 2013\Projects\MapMaker\MapMaker\bin\Debug\MapMaker.exe.config
+H:\fuck me\MapMaker\MapMaker\bin\Debug\MapMaker.exe.config
+H:\fuck me\MapMaker\MapMaker\bin\Debug\MapMaker.exe
+H:\fuck me\MapMaker\MapMaker\bin\Debug\MapMaker.pdb
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.csprojResolveAssemblyReference.cache
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MainWindow.baml
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MainWindow.g.cs
+H:\fuck me\MapMaker\MapMaker\obj\Debug\App.g.cs
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker_MarkupCompile.cache
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.g.resources
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.Properties.Resources.resources
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.csproj.GenerateResource.Cache
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.exe
+H:\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.pdb
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\bin\Debug\MapMaker.exe.config
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\bin\Debug\MapMaker.exe
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\bin\Debug\MapMaker.pdb
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.csprojResolveAssemblyReference.cache
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MainWindow.baml
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MainWindow.g.cs
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\App.g.cs
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker_MarkupCompile.cache
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.g.resources
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.Properties.Resources.resources
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.csproj.GenerateResource.Cache
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.exe
+H:\My finals before sleep\fuck me\MapMaker\MapMaker\obj\Debug\MapMaker.pdb
